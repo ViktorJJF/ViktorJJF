@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there 👋 🤖
+
+<a href="https://www.youtube.com/c/ViktorJimenez" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" width="150" ></a>
+
+<a href="https://www.linkedin.com/in/victorjuanjimenez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="150" ></a>
 
 <!--
 **ViktorJJF/ViktorJJF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 Here are some ideas to get you started:
 
