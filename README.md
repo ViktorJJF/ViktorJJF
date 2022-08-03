@@ -4,11 +4,10 @@
 
 <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="150" ></a>
 
+## *Currently Learning*
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/ViktorJJF/ViktorJJF/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
 <!--END_SECTION:waka-->
 
 <!--
