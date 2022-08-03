@@ -19,8 +19,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ## Contact
-⏩ You could follow me in my YouTube channel https://www.youtube.com/c/ViktorJimenezF <br>
-📫 You could reach me in my Linkedin https://www.linkedin.com/in/victorjuanjimenez/
+⏩ You could follow me in my <a href="https://www.youtube.com/c/ViktorJimenezF" target="blank">YouTube channel</a>   <br>
+📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
