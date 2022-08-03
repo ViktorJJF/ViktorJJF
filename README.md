@@ -6,8 +6,8 @@
 
 <!--START_SECTION:waka-->
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  src="https://github.com/ViktorJJF/ViktorJJF/blob/main/images/stat.svg"
+  alt="Alternative Text"
 />
 <!--END_SECTION:waka-->
 
