@@ -23,7 +23,7 @@
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.7%20million%20lines%20of%20code-blue)
 
@@ -52,14 +52,14 @@ Sunday                   963 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.06 % 
-Vue.js                   11 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-JavaScript               11 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-TypeScript               2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Python                   14 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.31 % 
+JavaScript               12 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+Vue.js                   11 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+TypeScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  41 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2023 01:03:52 UTC
+ Last Updated on 28/09/2023 01:03:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
