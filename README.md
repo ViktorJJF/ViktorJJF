@@ -23,7 +23,7 @@
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C974%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.1%20million%20lines%20of%20code-blue)
 
@@ -54,7 +54,7 @@ Sunday                   1118 commits        █░░░░░░░░░░�
 💬 Programming Languages: 
 Python                   9 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
 JavaScript               5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Vue.js                   3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Vue.js                   3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
 TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
@@ -75,7 +75,7 @@ TypeScript               8 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2024 01:12:06 UTC
+ Last Updated on 23/01/2024 01:09:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
