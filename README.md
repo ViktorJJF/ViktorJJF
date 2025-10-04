@@ -23,7 +23,9 @@
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-775.8%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C048%20hrs%2043%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-776.7%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -38,7 +40,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 02:53:17 UTC
+ Last Updated on 04/10/2025 02:49:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
