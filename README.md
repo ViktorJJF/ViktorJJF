@@ -23,26 +23,28 @@
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-989.13%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C831%20hrs%205%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-968.66%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338038 commits      ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌆 Daytime                403426 commits      █████████░░░░░░░░░░░░░░░░   37.84 % 
-🌃 Evening                270806 commits      ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-🌙 Night                  54005 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌞 Morning                381596 commits      ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+🌆 Daytime                526817 commits      ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌃 Evening                357341 commits      ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌙 Night                  91721 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   125201 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Tuesday                  230052 commits      █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Wednesday                185468 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Thursday                 258686 commits      ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Friday                   109717 commits      ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Saturday                 126244 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Sunday                   30907 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Monday                   190285 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  250265 commits      █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Wednesday                263788 commits      █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Thursday                 295308 commits      █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Friday                   168390 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Saturday                 119551 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Sunday                   69888 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
 
@@ -50,17 +52,17 @@ Sunday                   30907 commits       █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 31 hrs 19 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
-Python                   18 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-TypeScript               8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-JavaScript               3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 30 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.69 % 
+Python                   17 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+TypeScript               7 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+JavaScript               4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Codex CLI                40 hrs 25 mins      ██████████████░░░░░░░░░░░   57.08 % 
-Claude Code              16 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Zed                      13 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Codex CLI                41 hrs 52 mins      ███████████████░░░░░░░░░░   61.21 % 
+Claude Code              14 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Zed                      12 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
@@ -77,7 +79,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 07:24:52 UTC
+ Last Updated on 26/07/2026 08:22:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
