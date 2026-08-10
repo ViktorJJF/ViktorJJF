@@ -23,30 +23,30 @@
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C891%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C901%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C341%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C351%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-912.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.29%20billion%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                359166 commits      ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌆 Daytime                427484 commits      ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌃 Evening                272438 commits      ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌙 Night                  61893 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+🌞 Morning                370729 commits      ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌆 Daytime                516536 commits      █████████░░░░░░░░░░░░░░░░   37.09 % 
+🌃 Evening                416970 commits      ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+🌙 Night                  88554 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   139902 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  233664 commits      █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Wednesday                209221 commits      █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Thursday                 268835 commits      ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Friday                   120610 commits      ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Saturday                 112913 commits      ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Sunday                   35836 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Monday                   169020 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Tuesday                  270058 commits      █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Wednesday                243659 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Thursday                 307482 commits      ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Friday                   158650 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Saturday                 171013 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   72907 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 
 
@@ -54,44 +54,44 @@ Sunday                   35836 commits       █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
-Python                   15 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-JavaScript               3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-TypeScript               2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Other                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 21 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   38.63 % 
+Python                   15 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+TypeScript               4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JavaScript               3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Other                    2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 18 mins      █████████████████░░░░░░░░   66.04 % 
-Codex CLI                14 hrs              ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Zed                      3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Exec Wakatime            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Claude Code              36 hrs 15 mins      ████████████████░░░░░░░░░   64.48 % 
+Codex CLI                15 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Zed                      3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Exec Wakatime            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 8 mins (99.4%)
+⏱ AI Coding Time: 55 hrs 55 mins (99.43%)
 
-✍️ 43,645 lines written by AI, 356 lines written by hand (99.19% AI-written)
+✍️ 47,298 lines written by AI, 356 lines written by hand (99.25% AI-written)
 
-🔤 3,476,448,930 Input Tokens, 9,627,134 Output Tokens
+🔤 3,428,175,924 Input Tokens, 12,507,440 Output Tokens
 
-💵 $18505.40 Estimated AI Cost This Week
+💵 $18412.77 Estimated AI Cost This Week
 
-🧠 231 AI Sessions, 1090 AI Prompts
+🧠 250 AI Sessions, 1151 AI Prompts
 
-Opus                     23,405 lines        ██████████████░░░░░░░░░░░   54.55 % 
-GPT                      18,850 lines        ███████████░░░░░░░░░░░░░░   43.93 % 
-Codex-Cli                651 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Opus                     23,914 lines        █████████████░░░░░░░░░░░░   51.15 % 
+GPT                      22,184 lines        ████████████░░░░░░░░░░░░░   47.45 % 
+Codex-Cli                651 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📚 Verbose Prompter — average 4,092 characters per prompt
+🤖 AI-Driven — 99.25% of written lines came from AI
+📚 Verbose Prompter — average 5,206 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.84% of changed lines were hand-edited
+🚀 High AI Trust — 0.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Astro                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 05:36:38 UTC
+ Last Updated on 10/08/2026 07:31:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
