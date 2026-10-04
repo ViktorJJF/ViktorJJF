@@ -84,13 +84,16 @@ Agent                    48 mins             ░░░░░░░░░░░�
 
 🔤 51,896,648 Input Tokens, 8,219,974 Output Tokens
 
-💵 $981.60 Estimated AI Cost This Week
+💵 $2,558.50 Estimated AI Cost This Week
 
 🧠 100 AI Sessions, 584 AI Prompts
 
-Opus                     10,620 lines        ████████████████████████░   97.97 % 
-Sonnet                   220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     $1,320.12           █████████████░░░░░░░░░░░░   51.60 % 
+Opus                     $1,155.31           ███████████░░░░░░░░░░░░░░   45.16 % 
+Sonnet                   $39.08              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Fable                    $33.57              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+GPT                      $10.31              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Haiku                    $0.11               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -112,7 +115,7 @@ Jupyter Notebook         3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 15:21:53 UTC
+ Last Updated on 04/10/2026 15:29:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
