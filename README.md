@@ -19,7 +19,7 @@ I experiment with the limits of agentic AI.
 ## Agents
 Terminal agents I use to push those limits.
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor Agent](https://img.shields.io/badge/Cursor_Agent-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![agy](https://img.shields.io/badge/agy-4285F4?style=for-the-badge) ![Pi.dev](https://img.shields.io/badge/Pi.dev-111111?style=for-the-badge) ![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=opencode&logoColor=white)
+![Grok Build](https://img.shields.io/badge/Grok_Build-111111?style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor Agent](https://img.shields.io/badge/Cursor_Agent-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![agy](https://img.shields.io/badge/agy-4285F4?style=for-the-badge) ![Pi.dev](https://img.shields.io/badge/Pi.dev-111111?style=for-the-badge) ![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=opencode&logoColor=white)
 
 Orchestrators
 
