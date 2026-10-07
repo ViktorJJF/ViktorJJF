@@ -78,29 +78,29 @@ Agent                    50 mins             ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 79 hrs 42 mins (98.84%)
+⏱ AI Coding Time: 84 hrs 54 mins (99.2%)
 
-✍️ 48,876 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 53,280 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 997,276,639 Input Tokens, 32,344,097 Output Tokens
+🔤 1,034,246,975 Input Tokens, 35,795,676 Output Tokens
 
-💵 $4486.33 Estimated AI Cost This Week
+💵 $4935.16 Estimated AI Cost This Week
 
-🧠 451 AI Sessions, 1,958 AI Prompts
+🧠 520 AI Sessions, 2,254 AI Prompts
 
-Opus                     $2,213.17           ████████████░░░░░░░░░░░░░   49.33 %
-Grok                     $1,806.39           ██████████░░░░░░░░░░░░░░░   40.26 %
-Fable                    $308.97             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Sonnet                   $137.87             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-GPT                      $10.58              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Claude-Code              $9.25               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Opus                     $2,591.41           █████████████░░░░░░░░░░░░   52.51 %
+Grok                     $1,833.28           █████████░░░░░░░░░░░░░░░░   37.15 %
+Fable                    $307.74             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Sonnet                   $171.26             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Claude-Code              $17.51              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GPT                      $13.85              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Haiku                    $0.11               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 💵 Estimated cost by bot:
-Claude Code              $2,660.12           ███████████████░░░░░░░░░░   59.29 %
-Grok Build               $1,806.39           ██████████░░░░░░░░░░░░░░░   40.26 %
-Codex Exec               $10.58              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Antigravity              $9.25               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Claude Code              $3,070.52           ████████████████░░░░░░░░░   62.22 %
+Grok Build               $1,833.28           █████████░░░░░░░░░░░░░░░░   37.15 %
+Antigravity              $17.51              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Codex Exec               $13.85              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
