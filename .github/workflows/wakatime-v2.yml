@@ -22,3 +22,23 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          ref: main
+          fetch-depth: 1
+      - name: Show estimated AI cost per bot
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 .github/scripts/ai_cost_by_bot.py README.md
+      - name: Publish estimated AI cost
+        run: |
+          git config user.name "ViktorJJF"
+          git config user.email "ViktorJJF@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "AI cost block already current"
+            exit 0
+          fi
+          git commit -m "Show estimated AI cost per bot"
+          git push origin HEAD:main

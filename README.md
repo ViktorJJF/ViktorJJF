@@ -78,21 +78,29 @@ Codex Exec               19 mins             ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 31 mins (98.48%)
+⏱ AI Coding Time: 79 hrs 42 mins (98.84%)
 
-✍️ 29,251 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 48,876 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 325,763,382 Input Tokens, 17,152,611 Output Tokens
+🔤 997,276,639 Input Tokens, 32,344,097 Output Tokens
 
-💵 $2225.46 Estimated AI Cost This Week
+💵 $4486.33 Estimated AI Cost This Week
 
-🧠 192 AI Sessions, 960 AI Prompts
+🧠 451 AI Sessions, 1,958 AI Prompts
 
-Opus                     25,231 lines        ████████████████████░░░░░   80.99 % 
-Fable                    5,670 lines         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Sonnet                   254 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     $2,213.17           ████████████░░░░░░░░░░░░░   49.33 %
+Grok                     $1,806.39           ██████████░░░░░░░░░░░░░░░   40.26 %
+Fable                    $308.97             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Sonnet                   $137.87             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+GPT                      $10.58              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Claude-Code              $9.25               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Haiku                    $0.11               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+💵 Estimated cost by bot:
+Claude Code              $2,660.12           ███████████████░░░░░░░░░░   59.29 %
+Grok Build               $1,806.39           ██████████░░░░░░░░░░░░░░░   40.26 %
+Codex Exec               $10.58              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Antigravity              $9.25               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
