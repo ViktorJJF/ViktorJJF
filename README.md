@@ -78,21 +78,29 @@ Zed                      30 mins             ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 99 hrs 29 mins (99.54%)
+⏱ AI Coding Time: 98 hrs 32 mins (99.76%)
 
-✍️ 74,704 lines written by AI, 177 lines written by hand (99.76% AI-written)
+✍️ 71,935 lines written by AI, 177 lines written by hand (99.75% AI-written)
 
-🔤 693,773,721 Input Tokens, 39,326,221 Output Tokens
+🔤 678,154,977 Input Tokens, 39,484,789 Output Tokens
 
-💵 $5322.46 Estimated AI Cost This Week
+💵 $5492.78 Estimated AI Cost This Week
 
-🧠 489 AI Sessions, 2524 AI Prompts
+🧠 457 AI Sessions, 2,471 AI Prompts
 
-Opus                     76,504 lines        ████████████████████████░   96.10 % 
-Sonnet                   2,072 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Fable                    1,031 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     $3,923.23           ██████████████████░░░░░░░   71.43 %
+Grok                     $1,261.50           ██████░░░░░░░░░░░░░░░░░░░   22.97 %
+Sonnet                   $182.74             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Fable                    $107.45             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+GPT                      $8.94               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Claude-Code              $8.26               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Haiku                    $0.66               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+
+💵 Estimated cost by bot:
+Claude Code              $4,214.08           ███████████████████░░░░░░   76.72 %
+Grok Build               $1,261.50           ██████░░░░░░░░░░░░░░░░░░░   22.97 %
+Codex Exec               $8.94               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Antigravity              $8.26               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.76% of written lines came from AI
