@@ -30,30 +30,30 @@ Orchestrators
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C320%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C330%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C849%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C864%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20billion%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                366186 commits      ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-🌆 Daytime                518247 commits      █████████░░░░░░░░░░░░░░░░   36.45 % 
-🌃 Evening                446867 commits      ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌙 Night                  90447 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌞 Morning                366994 commits      ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌆 Daytime                519157 commits      █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌃 Evening                448288 commits      ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  90771 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   164310 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  284823 commits      █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Wednesday                227382 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Thursday                 316473 commits      ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Friday                   160891 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 190629 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Sunday                   77239 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Monday                   164572 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Tuesday                  285582 commits      █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Wednesday                228009 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Thursday                 317256 commits      ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Friday                   161056 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Saturday                 191208 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Sunday                   77527 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 ```
 
 
@@ -61,49 +61,42 @@ Sunday                   77239 commits       █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 43 hrs              ██████████░░░░░░░░░░░░░░░   40.83 % 
-Python                   25 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Other                    20 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-JavaScript               6 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-HTML                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Markdown                 39 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   39.07 % 
+Python                   24 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Other                    22 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+JavaScript               5 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+HTML                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Claude Code              84 hrs 56 mins      ████████████████████░░░░░   80.63 % 
-Bot                      12 hrs 48 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Grok Build               3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Agent                    3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Cursor                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Claude Code              78 hrs 53 mins      ███████████████████░░░░░░   77.50 % 
+Bot                      12 hrs 26 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Grok Build               5 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Agent                    3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Grok                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 105 hrs 13 mins (99.9%)
+⏱ AI Coding Time: 101 hrs 41 mins (99.9%)
 
-✍️ 59,087 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 47,138 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 488,947,960 Input Tokens, 37,780,771 Output Tokens
+🔤 676,211,468 Input Tokens, 35,473,676 Output Tokens
 
-💵 $4533.23 Estimated AI Cost This Week
+💵 $4555.17 Estimated AI Cost This Week
 
-🧠 380 AI Sessions, 2,619 AI Prompts
+🧠 367 AI Sessions, 2661 AI Prompts
 
-Opus                     $2,875.13           ████████████████░░░░░░░░░   63.42 %
-Sonnet                   $1,065.78           ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Grok                     $589.41             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 %
-GPT                      $2.54               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Hermes                   $0.30               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Haiku                    $0.08               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-
-💵 Estimated cost by bot:
-Claude Code              $3,940.98           ██████████████████████░░░   86.94 %
-Grok Build               $589.41             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Codex Exec               $2.54               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Zed                      $0.30               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Opus                     34,573 lines        ██████████████████░░░░░░░   72.36 % 
+Sonnet                   13,205 lines        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,864 characters per prompt
+📚 Verbose Prompter — average 1,690 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -121,7 +114,7 @@ Jupyter Notebook         3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 07:53:20 UTC
+ Last Updated on 19/10/2026 08:59:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
