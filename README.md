@@ -30,30 +30,30 @@ Orchestrators
 📫 You could reach me in my <a href="https://www.linkedin.com/in/victorjuanjimenez/" target="blank">Linkedin</a>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C376%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C396%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C926%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C948%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.35%20billion%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                391087 commits      ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌆 Daytime                543840 commits      █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌃 Evening                466169 commits      ████████░░░░░░░░░░░░░░░░░   31.12 % 
-🌙 Night                  96794 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+🌞 Morning                394229 commits      ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+🌆 Daytime                547009 commits      █████████░░░░░░░░░░░░░░░░   36.32 % 
+🌃 Evening                467622 commits      ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌙 Night                  97199 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   174890 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Tuesday                  301218 commits      █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Wednesday                244379 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 333108 commits      ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Friday                   168475 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 194496 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Sunday                   81324 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Monday                   176126 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Tuesday                  303057 commits      █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Wednesday                246313 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Thursday                 334901 commits      ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Friday                   169593 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 194552 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Sunday                   81517 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
@@ -61,53 +61,43 @@ Sunday                   81324 commits       █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 43 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.07 % 
-Other                    25 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Python                   22 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-JavaScript               8 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Bash                     3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown                 41 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   35.47 % 
+Other                    27 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Python                   23 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+JavaScript               9 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+HTML                     4 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Claude Code              90 hrs 25 mins      ████████████████████░░░░░   79.43 % 
-Bot                      8 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Opencode Cli             6 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Grok Build               3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Cursor Agent             1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Claude Code              92 hrs 45 mins      ████████████████████░░░░░   78.66 % 
+Opencode Cli             9 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bot                      7 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Grok Build               4 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Cursor Agent             1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 113 hrs 46 mins (99.93%)
+⏱ AI Coding Time: 117 hrs 50 mins (99.94%)
 
-✍️ 72,274 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 81,325 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 625,024,739 Input Tokens, 35,600,871 Output Tokens
+🔤 778,851,289 Input Tokens, 37,715,766 Output Tokens
 
-💵 $5840.28 Estimated AI Cost This Week
+💵 $7036.44 Estimated AI Cost This Week
 
-🧠 376 AI Sessions, 3,133 AI Prompts
+🧠 473 AI Sessions, 3465 AI Prompts
 
-Opus                     $2,334.17           ██████████░░░░░░░░░░░░░░░   39.97 %
-GLM                      $1,509.76           ██████░░░░░░░░░░░░░░░░░░░   25.85 %
-Sonnet                   $1,057.39           █████░░░░░░░░░░░░░░░░░░░░   18.11 %
-Grok                     $831.33             ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
-DeepSeek                 $106.83             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Hermes                   $0.30               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GPT                      $0.27               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Haiku                    $0.23               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-
-💵 Estimated cost by bot:
-Claude Code              $3,391.79           ███████████████░░░░░░░░░░   58.08 %
-Opencode Cli             $1,616.59           ███████░░░░░░░░░░░░░░░░░░   27.68 %
-Grok Build               $831.33             ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
-Zed                      $0.30               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Codex Exec               $0.27               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Opus                     44,434 lines        █████████████░░░░░░░░░░░░   53.78 % 
+Sonnet                   26,325 lines        ████████░░░░░░░░░░░░░░░░░   31.86 % 
+DeepSeek                 5,102 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Opencode-Cli             4,786 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+GLM                      1,975 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,918 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,968 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -124,7 +114,7 @@ Jupyter Notebook         3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 08:17:32 UTC
+ Last Updated on 24/10/2026 08:02:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
